@@ -7,7 +7,7 @@ Genetic algorithms are a form of machine learning. They allow machines to adapt 
 *not taken the time to revisit the code :)
 
 - more info and visuals on [this project website](http://leoneckert.com/genetic-dance-algorithm/dance.html).
-- Project was presenrted at [Codame Art & Tech Festival](http://codame.com/artists/leon-eckert) in San Francisco (2015).
+- Project was presented at [Codame Art & Tech Festival](http://codame.com/artists/leon-eckert) in San Francisco (2015).
 
 ![image](https://github.com/leoneckert/genetic-dance-algorithm/blob/master/program.jpg)
 
